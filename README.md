@@ -6,7 +6,7 @@
 <li><a href="#sec-2">2. Setup</a>
 <ul>
 <li><a href="#sec-2-1">2.1. Locally</a></li>
-<li><a href="#sec-2-2">2.2. pip</a></li>
+<li><a href="#sec-2-2">2.2. <span class="todo TODO">TODO</span> pip</a></li>
 </ul>
 </li>
 <li><a href="#sec-3">3. Use</a></li>
@@ -17,7 +17,7 @@
 </div>
 </div>
 
-This is the description of `quantis_random`, a Python module for the
+This is the description of `quantis_rand`, a Python module for the
 Quantis USB Legacy quantum random generator.
 
 This package is a quick solution to use <https://www.idquantique.com/random-number-generation/products/quantis-random-number-generator/>
@@ -54,7 +54,7 @@ Having completed these steps, the package can be installed.
     ./setup.py build
     ./setup.py install
 
-## pip<a id="sec-2-2" name="sec-2-2"></a>
+## TODO pip<a id="sec-2-2" name="sec-2-2"></a>
 
 tba
 

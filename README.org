@@ -2,7 +2,7 @@
 #+TITLE: Python binding for Quantis USB Legacy quantum random generators (unofficial)
 #+AUTHOR: Mátyás Koniorczyk
 
-This is the description of ~quantis_random~, a Python module for the
+This is the description of ~quantis_rand~, a Python module for the
 Quantis USB Legacy quantum random generator.
 
 This package is a quick solution to use [[Quantis USB Legacy quantum random
