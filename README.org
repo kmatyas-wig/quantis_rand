@@ -5,11 +5,10 @@
 This is the description of ~quantis_rand~, a Python module for the
 Quantis USB Legacy quantum random generator.
 
-This package is a quick solution to use [[Quantis USB Legacy quantum random
- generator][https://www.idquantique.com/random-number-generation/products/quantis-random-number-generator/]]
-in my projects. It is a simple interface to the software libraries
-available for the device, enabling the call of the functions of the
-supplied API from Python.
+This package is a quick solution to use [[https://www.idquantique.com/random-number-generation/products/quantis-random-number-generator/][Quantis USB Legacy quantum
+random generator]] in my projects. It is a simple interface to the
+software libraries available for the device, enabling the call of the
+functions of the supplied API from Python.
 
 It might be useful for others, but it is written to meet limited
 requirements of certain research projects. No warranty, use at your
@@ -39,8 +38,6 @@ Having completed these steps, the package can be installed.
 ./setup.py build
 ./setup.py install
 #+END_SRC
-** TODO pip
-tba
 * Use
 
 We assume that a single random generator is plugged in to the USB port
@@ -87,7 +84,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+along with this program.  If not, see https://www.gnu.org/licenses/.
 
 * Acknowledgments
 
