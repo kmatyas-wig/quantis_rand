@@ -33,7 +33,7 @@ provided by IdQuantique upon request in a file named
 `QuantisRNG-20.2.3-Linux-amd64.tar.bz2`. This package had 3
 subdirectories:
 
--   **lib64:** copy its contents to `/usr/local/bin`
+-   **lib64:** copy its contents to `/usr/local/lib`
 -   **include:** copy its contents to `/usr/local/include`
 -   **bin:** it is the supplied GUI application, not needed for this package.
 
